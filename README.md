@@ -25,5 +25,5 @@ Working on this project provided me with a deeper understanding of several key c
 * Effectively handling and processing datasets in CSV format.
 * Creating interactive interfaces for user input classification.
 * Experimenting with different learning rates to improve model performance.
-* 
+  
 This project was particularly valuable as it marked the beginning of my exploration into machine learning. The hands-on experience I gained has been instrumental in building a strong foundation for my future endeavors in this field.
